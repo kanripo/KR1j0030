@@ -1,6 +1,6 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 歷代鐘鼎彝器款識法帖
-#+DATE: 2018-03-30 13:56:22.291296
+#+DATE: 2018-03-30 14:14:32.794547
 #+PROPERTY: ID KR1j0030
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS master    
