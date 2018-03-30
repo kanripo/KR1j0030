@@ -1,10 +1,10 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 歷代鐘鼎彝器款識法帖
-#+DATE: 2018-03-25 15:00:51.265964
+#+DATE: 2018-03-30 13:56:22.127944
 #+PROPERTY: ID KR1j0030
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS WYG    
-#+PROPERTY: JUAN 6
+#+PROPERTY: JUAN 卷六
 <pb:KR1j0030_WYG_006-1a>¶
 欽定四庫全書¶
 　厯代鐘鼎彛器欵識法帖卷六¶
@@ -14,8 +14,8 @@
 ¶
 　宋公䪫鐘一¶
 　　　　　　　　　　　　　　　　　　　¶
-<pb:KR1j0030_WYG_006-1b>¶
 　宋公䪫鐘二¶
+<pb:KR1j0030_WYG_006-1b>¶
 　　　　　　　　　　　　　　　　　　　¶
 　宋公䪫鐘三¶
 　　　　　　　　　　　　　　　　　　　¶
@@ -60,8 +60,8 @@
 　寶和鐘三¶
 　　　　　　　　　　　　　　　　　　　¶
 　寶和鐘四¶
-<pb:KR1j0030_WYG_006-3b>¶
 　　　　　　　　　　　　　　　　　　　　¶
+<pb:KR1j0030_WYG_006-3b>¶
 　寶和鐘五¶
 　　　　　　　　　　　　　　　　　　　¶
 ¶
@@ -90,13 +90,13 @@
 承祖宗時耳¶
 ¶
 　許子鐘一¶
-<pb:KR1j0030_WYG_006-4b>¶
 　　　　　　　　　　　　　　　　　　　　　¶
+<pb:KR1j0030_WYG_006-4b>¶
 <pb:KR1j0030_WYG_006-5a>¶
 　　　　　　　　　　　　　　　　　　　　¶
 　許子鐘二¶
-<pb:KR1j0030_WYG_006-5b>¶
 　　　　　　　　　　　　　　　　　　　　　¶
+<pb:KR1j0030_WYG_006-5b>¶
 　　　　　　　　　　　　　　　　　　　¶
 ¶
 考古録云按史記鄭悼公元年鄦公惡鄭于楚徐廣¶
@@ -160,8 +160,8 @@
 <pb:KR1j0030_WYG_006-8a>¶
 　曽侯鐘一方城范氏¶
 　　　　　　　　　　　　　　　　　　　　¶
-<pb:KR1j0030_WYG_006-8b>¶
 　　　　　　　　　　　　　　　　　　　　¶
+<pb:KR1j0030_WYG_006-8b>¶
 　曽侯鐘二¶
 　　　　　　　　　　　　　　　　　¶
 <pb:KR1j0030_WYG_006-9a>¶
